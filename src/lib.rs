@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("");
+declare_id!("BbMzRspZxdEqkZnLgSXFbfg97jQqUdHKoryxWPvNSPrM");
 
 #[program]
 pub mod pedidos_restaurante {
